@@ -132,7 +132,6 @@ n8n_colab_launcher
 ├── n8n_colab_launcher.ipynb
 ├── README.md
 ├── dashboard.png
-└── .gitignore
 ```
 
 ---
