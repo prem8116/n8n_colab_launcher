@@ -42,6 +42,24 @@ With this notebook you can run **n8n automation workflows on Google Colab** with
 * cloud deployment
 
 ---
+Why I Built This
+
+I started learning n8n using only my mobile phone.
+
+At that time my laptop was extremely old (2GB RAM, dual-core CPU, Windows 8.1), so running development tools locally was very difficult. To experiment with automation I even tried running Termux with a VNC server and Debian just to learn n8n.
+
+While searching for ways to learn n8n for free, I explored several cloud platforms. Many of them offered free tiers but still required credit card verification or complicated deployment steps.
+
+I wanted something simpler — a way for beginners to try n8n without needing:
+
+- a powerful computer
+- server setup
+- payment details
+
+That’s when the idea came to me: what if n8n could run on Google Colab?
+
+This repository is the result of that experiment.
+My goal is to make it easier for others to explore automation with n8n without facing the same barriers I encountered.
 
 ## Project Status
 
