@@ -14,7 +14,7 @@ Many cloud platforms require credit card verification even for free tiers. This 
 
 Why I Built This
 
-I started learning n8n using only my mobile phone.
+I started learning n8n using only my mobile phone
 
 At that time my laptop was extremely old (2GB RAM, dual-core CPU, Windows 8.1), so running development tools locally was very difficult. To experiment with automation I even tried running Termux with a VNC server and Debian just to learn n8n.
 
